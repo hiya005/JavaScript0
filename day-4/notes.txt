@@ -1,0 +1,15 @@
+1)Spread operator
+spread operator expands the array and string and gives the access of individual elements.
+2) ternary operator 
+the ternary operator is shorthand for an if else statement. it returns one of the two values based on a condition.
+3)what is nullish coalescing operator??
+the nullish coalescing operator returns the right hand operand when the left hand operand is null or undefined; otherwise,it returns the left hand operand
+4)first class function
+in first class function  we can pass a function to a variable and we are treating the variable as a function 
+we can pass a function as an argument inside another function 
+it can return a function from a function 
+5)anonymous function 
+anonymous function 
+6)self invoking functiona self invoking function also known as immediately invoked function expression is a function tha tis executed after it is defined
+TO OBTAIN DATA PRIVACY
+DON'T GIVE ACCESS TO CALL ANYWHERE 

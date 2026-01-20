@@ -20,3 +20,6 @@
 &emsp;7.5&nbsp; Callback Function  
 &emsp;7.6&nbsp; Anonymous Function  
 &emsp;7.7&nbsp; Self Invoking Function (IIFE - Immediately Invoked Functions Expression)  
+8 difference between spread operation and rest parameter
+9 what is nullish coalescing operator??
+10 difference between settimeout and setinternal 
