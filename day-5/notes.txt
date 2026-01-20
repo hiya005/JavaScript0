@@ -1,0 +1,7 @@
+in slicing negative inteer works while in the substring negative integer does not work .
+replace()
+to uppercase() and to lowercase() - used in user input
+concat method
+trim method()- removes whitespaces from both end of a string 
+
+Question - find out the occurence of r in the given string????
