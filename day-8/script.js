@@ -1,19 +1,23 @@
-const heading = document.getElementById("myHeading");
-console. log(heading);
-heading.style.color="tomato";
-heading.style.backgroundColor="yellow"
+// id traversal
+const heading = document.getElementById ("myHeading");
+console.log(heading);
 
-const para = document. getElementsByClassName("para") ; I
-para.style.backgroundColor="cyan";
+heading.textContent = "Hello India!";
+heading.style.color = "tomato";
+heading.style.backgroundColor = "yellow";
 
-const para = dpcument.getElementsByClassName("para");
+// class traversal
+const para = document.getElementsByClassName
+    ("para");
 console.log(para);
 
-for(let i=0;i<para.length;i++){
-    para[i].style.backgroundColor="cyan"
+for (let i = 0; i < para.length; i++) {
+    para[i].style.backgroundColor = "cyan";
+
 }
 
-//  query selector
-const qs= document.querySelector("#content p");
+// queryselector
+
+const qs = document.querySelector("#content p")
 console.log(qs);
-qs.textcontent ="lorem ipsum dolor sit amet";
+qs.textContent = "lorem djkabn. j d. eqjo. ej";
